@@ -1,0 +1,28 @@
+*{
+    padding: 100;
+    margin: 100;
+    font-family: Arial, Helvetica, sans-serif;
+display flex-wrap:
+}
+.menu{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin: auto;
+    height: 70px;
+  
+
+}
+.logo{
+    width: 150px;
+}
+.type{
+    text-decoration: none;
+color: white;
+}
+.div{
+    display:flex;
+    gap: 15px;
+}
